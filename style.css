@@ -1,0 +1,15 @@
+body{
+    margin: 20px;
+
+}
+input{
+    margin:10px;
+}
+#submit_button{
+    margin-top: 20px;
+margin-bottom:20px ;
+}
+#sorting_button{
+    display: none;
+    
+}
